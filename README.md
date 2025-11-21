@@ -8,7 +8,7 @@ Není to překladač, není to nový jazyk — je to jen *krutě sprostý `#incl
 Příklad kódu:
 
 ```c
-#include <banikpyco.h>
+#include "banikpyco.h"
 
 cyslo bo() {
     mluv("Banik pyčo!\n") pyco
